@@ -255,7 +255,7 @@ a {
     -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
     transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
     border-bottom: dotted 1px;
-    color: #f56a6a;
+    color: #56da6a !important;
     text-decoration: none;
 }
 
@@ -2099,7 +2099,7 @@ ul.icons li:last-child {
 }
 
 ul.icons li .icon {
-    color: inherit;
+    color: #435235;
 }
 
 ul.icons li .icon:before {
@@ -2385,7 +2385,7 @@ input[type="reset"].primary,
 input[type="button"].primary,
 button.primary,
 .button.primary {
-    background-color: #df2b2b;
+    background-color: #00FF;
     box-shadow: none;
     color: #ffffff !important;
 }
@@ -3251,12 +3251,12 @@ button:disabled,
 /* Footer */
 
 #footer .copyright {
-    color: #9fa3a6;
+    color: #9fa3 !important;
     font-size: 0.9em;
 }
 
 #footer .copyright a {
-    color: inherit;
+    color: #f6dd !important;
 }
 
 
